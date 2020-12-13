@@ -1,9 +1,7 @@
-## Yo there! S7K <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
-
-I'm an iOS Mobile Developer. Also, experience in UI/UX Design for software and hardware solutions.
+## Yo there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+I'm an iOS Mobile Developer. Also, experienced in UI/UX Design for software and hardware solutions.
 
 ### Get in touch
-
 <a href="https://www.facebook.com/salahhkhaled">
   <img align="left" alt="Salah Khaled | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
 </a>
@@ -13,13 +11,9 @@ I'm an iOS Mobile Developer. Also, experience in UI/UX Design for software and h
 <a href="https://www.instagram.com/sala7khaled/">
   <img align="left" alt="Salah Khaled | Instagram " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/003-instagram.png?raw=true" />
 </a>
-
-<br/>
-<br/>
-
 ## 🤜🏻🤛🏻 Support Me
 
-You can support me and [buy me a coffee][3], if you want. 🙏🏻
+You can support me and [buy me a coffee][3], if you want.
 
 ## :zap: Recent Activity
 
