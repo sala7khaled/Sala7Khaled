@@ -1,6 +1,6 @@
 <img src="/src/Cover.png" alt="Demo"/>
 
-## Yo there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+## Yo there! <img src="/src/wave.gif" width="30px"> 
 I'm an iOS Mobile Developer. Also, experienced in UI/UX Design for software and hardware solutions.
 
 🔭 I’m currently working at [Intcore](https://intcore.com)
