@@ -32,10 +32,10 @@ You can support me and [buy me a coffee][3], if you want.
 </a>
 
 ## 🛠 Tools 
-<code><img height="30" src="/src/xcode.png"></code>
+<code><img height="29" src="/src/xcode.png"></code>
 <code><img height="30" src="/src/android-studio.png"></code>
 <code><img height="30" src="/src/postman.png"></code>
-<code><img height="30" src="/src/xd.png"></code>
+<code><img height="26" src="/src/xd.png"></code>
 
 [1]: linkedin.com/in/sala7khaled
 [2]: facebook.com/salahhkhaled
