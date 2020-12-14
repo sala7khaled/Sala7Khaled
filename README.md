@@ -9,7 +9,8 @@ I'm an iOS Mobile Developer. Also, experienced in UI/UX Design for software and 
 <br/>
 💬 Ask me about anything [here](https://github.com/sala7khaled/sala7khaled/issues)
 
-<a href="https://www.facebook.com/salahhkhaled"> <img align="left" alt="Salah Khaled | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" /> <a href="https://www.linkedin.com/in/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
+<a href="https://www.facebook.com/salahhkhaled"> <img align="left" alt="Salah Khaled | Facebook" width="20px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/005-facebook.png?raw=true" />
+<a href="https://www.linkedin.com/in/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/006-linkedin.png?raw=true" />
 <a href="https://www.instagram.com/sala7khaled/"> <img align="left" alt="Salah Khaled | Instagram " width="21px" src="https://github.com/alfayedoficial/alfayedoficial/blob/master/003-instagram.png?raw=true" />
 <br/>
 
