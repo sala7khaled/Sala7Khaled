@@ -32,10 +32,9 @@ You can support me and [buy me a coffee][3], if you want.
 </a>
 
 ## 🛠 Tools 
-<code><img height="30" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png"></code>
-<code><img height="30" src="https://www.apkmirror.com/wp-content/uploads/2020/06/91/5ee85ad3f2a41.png"></code>
-<code><img height="30" src="https://cdn.pixabay.com/photo/2015/11/27/10/55/photoshop-1065296_960_720.jpg"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"></code>
+<code><img height="30" src="/src/xcode.png"></code>
+<code><img height="30" src="/src/android-studio.png"></code>
+<code><img height="30" src="/src/xd.png"></code>
 
 [1]: linkedin.com/in/sala7khaled
 [2]: facebook.com/salahhkhaled
