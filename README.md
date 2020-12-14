@@ -22,8 +22,6 @@ I'm an iOS Mobile Developer. Also, experienced in UI/UX Design for software and 
 ## 🤜🏻🤛🏻 Support Me
 You can support me and [buy me a coffee][3], if you want.
 
-## ⚡️ Recent Activity
-
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sala7khaled/sala7khaled">
