@@ -1,8 +1,9 @@
 <img src="/src/Cover.png" alt="Demo"/>
 
 ## Hello World! <img src="/src/wave.gif" width="30px"> 
+```
 I'm an iOS Mobile Developer. Also, experienced in UI/UX Design for software and hardware solutions.
-
+```
 🔭 I’m currently working at [Intcore](https://intcore.com)
 <br/>
 🌱 I’m currently learning [Flutter](https://flutter.dev)
