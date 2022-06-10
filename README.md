@@ -1,6 +1,6 @@
 <img src="/src/Cover.png" alt="Demo"/>
 
-## Hello World! <img src="/src/wave.gif" width="10px" height ="30px" aspect-ratio =1/1 alt=""> 
+## Hello World! <img src="/src/wave.gif" height ="30px"> 
 ```
 I'm an iOS Mobile Developer. Also, experienced in UI/UX Design for software and hardware solutions.
 ```
