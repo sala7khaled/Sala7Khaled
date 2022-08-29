@@ -26,11 +26,11 @@ You can support me and [buy me a coffee][3], if you want.
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sala7khaled/sala7khaled">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+  <img height ="300px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
 </a>
 
 <a href="https://github.com/sala7khaled/sala7khaled">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sala7khaled&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" alt="Catalin's GitHub Stats" />
+  <img height ="300px" align="center" src="https://github-readme-stats.vercel.app/api?username=sala7khaled&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" alt="Catalin's GitHub Stats" />
 </a>
 
 ## 🛠 Tools 
