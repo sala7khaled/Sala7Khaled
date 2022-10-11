@@ -2,7 +2,7 @@
 
 ## Hello World! <img src="/src/wave.gif" height ="30px" width ="30px"> 
 ```
-I'm an iOS mobile developer. Seeks to create software and hardware for better solutions.
+I'm an iOS mobile developer, seeks to create software and hardware for better solutions;
 ```
 🔭 I’m currently working at [Intcore](https://intcore.com)
 <br/>
