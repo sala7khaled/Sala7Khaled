@@ -2,7 +2,7 @@
 
 ## Hello World! <img src="/src/wave.gif" height ="30px" width ="30px"> 
 ```
-an enthusiastic ios mobile app developer, seeks to create software and hardware for better solutions;
+an enthusiastic ios mobile app developer, seeks to create software for better solutions;
 ```
 🔭 I’m currently working at [Intcore](https://intcore.com)
 <br/>
