@@ -4,7 +4,7 @@
 ```
 an enthusiastic ios mobile app developer, seeks to create software for better solutions;
 ```
-🔭 I’m currently working at [Intcore](https://intcore.com)
+🔭 I’m currently working at [Tarseya](https://www.tarseya.com/lang?lang=en)
 <br/>
 🌱 I’m currently learning [Flutter](https://flutter.dev)
 <br/>
