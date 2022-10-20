@@ -4,11 +4,11 @@
 ```
 an enthusiastic ios mobile app developer, seeks to create software for better solutions;
 ```
-🔭 I’m currently working at [Tarseya](https://www.tarseya.com/lang?lang=en)
+🔭 I’m currently working at [Tarseya](https://www.tarseya.com)
 <br/>
 🌱 I’m currently learning [Flutter](https://flutter.dev)
 <br/>
-💬 Ask me about anything [here](https://github.com/sala7khaled/sala7khaled/issues)
+💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
 
 <a href="https://www.facebook.com/salahhkhaled"> <img align="left" alt="Salah Khaled | Facebook" width="20px" src="/src/facebook.png" />
   </a>
