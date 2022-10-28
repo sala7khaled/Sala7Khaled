@@ -1,6 +1,6 @@
 <img src="/src/Cover.png" alt="Demo"/>
 
-## Hello World! <img src="/src/wave.gif" height ="30px" width ="30px"> 
+## <img src="/src/wave.gif" height ="30px" width ="30px"> Hello World! 
 ```
 an enthusiastic ios mobile app developer, seeks to create software for better solutions;
 ```
