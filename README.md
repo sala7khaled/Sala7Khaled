@@ -21,7 +21,7 @@ an enthusiastic ios mobile app developer, seeks to create software for better so
 <br />
 
 ## 🤜🏻🤛🏻 Support Me
-You can support me and [buy me a coffee][3], if you want.
+You can support me and [buy me a coffee](https://www.paypal.com/paypalme/Sala7KhaledSK), if you want.
 
 ## 📈 GitHub Stats
 
@@ -38,7 +38,3 @@ You can support me and [buy me a coffee][3], if you want.
 <code><img height="35" src="/src/android-studio.png"></code>
 <code><img height="32" src="/src/postman.png"></code>
 <code><img height="30" src="/src/xd.png"></code>
-
-[1]: linkedin.com/in/sala7khaled
-[2]: facebook.com/salahhkhaled
-[3]: https://www.paypal.com/paypalme/Sala7KhaledSK
