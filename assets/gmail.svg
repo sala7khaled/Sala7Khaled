@@ -1,18 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="134" viewBox="0 0 134 134">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectangle_2" data-name="Rectangle 2" width="166" height="166" transform="translate(-0.164 -0.164)" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="74" height="74" transform="translate(-0.15 -0.15)" fill="#fff"/>
     </clipPath>
   </defs>
   <g id="gmail" transform="translate(-704 -252)">
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="300" height="300" rx="76" transform="translate(704 252)" fill="#161b22"/>
-    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(771.164 319.164)" clip-path="url(#clip-path)">
-      <g id="gmail-2" data-name="gmail" transform="translate(0.336 20.985)">
-        <path id="Path_2" data-name="Path 2" d="M11.226,96.046H37.463V32.331L0,4.254V84.928A11.2,11.2,0,0,0,11.226,96.046Z" transform="translate(0 27.655)" fill="#4285f4"/>
-        <path id="Path_3" data-name="Path 3" d="M17,96.046H43.241A11.212,11.212,0,0,0,54.466,84.82V4.254L17,32.331V96.046Z" transform="translate(110.52 27.655)" fill="#34a853"/>
-        <path id="Path_4" data-name="Path 4" d="M17,11.283v48.7L54.48,31.908V16.9a16.874,16.874,0,0,0-27-13.495L17,11.283Z" transform="translate(110.52 0.001)" fill="#fbbc04"/>
-        <path id="Path_5" data-name="Path 5" d="M5,50.206V1.5L50.032,35.3,95.055,1.5v48.7L50.032,83.9Z" transform="translate(32.468 9.78)" fill="#ea4335"/>
-        <path id="Path_6" data-name="Path 6" d="M0,16.875V31.887L37.477,59.965v-48.7L27,3.38A16.907,16.907,0,0,0,0,16.875Z" transform="translate(0 0.022)" fill="#c5221f"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" transform="translate(704 252)" fill="#161b22"/>
+    <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(734.15 282.15)" clip-path="url(#clip-path)">
+      <g id="gmail-2" data-name="gmail" transform="translate(0 9.224)">
+        <path id="Path_2" data-name="Path 2" d="M5.014,45.254h11.72V16.8L0,4.254V40.288a5,5,0,0,0,5.014,4.966Z" transform="translate(0 9.999)" fill="#4285f4"/>
+        <path id="Path_3" data-name="Path 3" d="M17,45.254h11.72a5.008,5.008,0,0,0,5.014-5.014V4.254L17,16.8V45.254Z" transform="translate(39.957 9.999)" fill="#34a853"/>
+        <path id="Path_4" data-name="Path 4" d="M17,5.04V26.793l16.74-12.541V7.547A7.537,7.537,0,0,0,21.681,1.519L17,5.04Z" transform="translate(39.957 0.001)" fill="#fbbc04"/>
+        <path id="Path_5" data-name="Path 5" d="M5,23.258V1.5L25.111,16.6,45.222,1.5V23.258L25.111,38.306Z" transform="translate(11.739 3.536)" fill="#ea4335"/>
+        <path id="Path_6" data-name="Path 6" d="M0,7.539v6.705L16.74,26.786V5.032L12.061,1.511A7.552,7.552,0,0,0,0,7.539Z" transform="translate(0 0.008)" fill="#c5221f"/>
       </g>
     </g>
   </g>
