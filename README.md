@@ -26,11 +26,13 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/Sala7Kh
 ## 📈 GitHub Stats
 
 <a href="https://github.com/sala7khaled/sala7khaled">
-  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" />
+  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=sala7khaled&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" alt="Salah's GitHub Stats" />
 </a>
 
+<a />
+
 <a href="https://github.com/sala7khaled/sala7khaled">
-  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=sala7khaled&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=0D1117" alt="Catalin's GitHub Stats" />
+  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
 </a>
 
 ## 🛠 Tools 
