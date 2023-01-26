@@ -5,6 +5,13 @@ software with a useable and intuitive user interface experience. I also, create 
 and easily maintainable source code. I am constantly striving to learn new technologies
 and look for waysto better myself in thisrapidly changing industry.
 ```
+<!-- <table>
+<tr>
+<td>
+Results-oriented software developer in the field of iOS Development. I make it my goal to create software with a useable and intuitive user interface experience. I also, create highly readable and easily maintainable source code. I am constantly striving to learn new technologies and look for waysto better myself in thisrapidly changing industry.
+</td>
+</tr>
+</table> -->
 
 🔭 I’m currently working at [Tarseya](https://www.tarseya.com)
 <br/>
