@@ -1,18 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+<svg id="linktree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="134" viewBox="0 0 134 134">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectangle_2" data-name="Rectangle 2" width="22" height="22" transform="translate(713 261)" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="74" height="74" transform="translate(-0.15 -0.15)" fill="#fff"/>
     </clipPath>
   </defs>
-  <g id="linktree" transform="translate(-704 -252)">
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="40" height="40" rx="10" transform="translate(704 252)" fill="#161b22"/>
-    <g id="Mask_Group_5" data-name="Mask Group 5" clip-path="url(#clip-path)">
-      <g id="layer1" transform="translate(700.67 254.229)">
-        <g id="g46" transform="translate(-0.936 2.607)">
-          <g id="g18" transform="translate(0.126 4.836)">
-            <path id="path993" d="M22.572,14.132h3.2v7.2h-3.2v-7.2" fill="#43e660" fill-rule="evenodd"/>
-            <path id="path991" d="M15.168,6.764h5.441L16.735,3.1,18.87.922l3.686,3.77V-.672h3.2V4.691L29.442.921,31.576,3.1,27.7,6.763h5.442V9.8H27.669l3.892,3.77-2.135,2.125L24.139,10.4l-5.287,5.295-2.135-2.125L20.609,9.8H15.134V6.764h.034" fill="#43e660" fill-rule="evenodd"/>
-          </g>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" fill="#161b22"/>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(30.15 30.15)" clip-path="url(#clip-path)">
+    <g id="layer1" transform="translate(6.682 0)">
+      <g id="g46" transform="translate(0 0)">
+        <g id="g18" transform="translate(0 0)">
+          <path id="path993" d="M22.572,14.132H33.3V38.24H22.572V14.132" transform="translate(2.344 35.46)" fill="#43e660" fill-rule="evenodd"/>
+          <path id="path991" d="M15.247,24.24H33.475L20.5,11.956l7.151-7.287L40,17.3V-.672H50.723V17.293L63.065,4.664l7.151,7.287L57.239,24.235H75.471v10.16H57.125L70.162,47.023l-7.151,7.12L45.3,36.405,27.59,54.143l-7.151-7.12L33.475,34.395H15.134V24.24h.113" transform="translate(-15.134 0.672)" fill="#43e660" fill-rule="evenodd"/>
         </g>
       </g>
     </g>
