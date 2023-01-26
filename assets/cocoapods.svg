@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="134" viewBox="0 0 134 134">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="134" height="134" transform="translate(-337 1415)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="cocoapods" transform="translate(337 -1415)" clip-path="url(#clip-path)">
+    <g id="_806ba5bc769f1f2e187ef42e46678c21" data-name="806ba5bc769f1f2e187ef42e46678c21" transform="translate(-337 1415)">
+      <path id="Subtraction_1" data-name="Subtraction 1" d="M471-1281H337v-134H471v134Zm-75.8-97.526c-18.289,0-27.858,13.83-27.858,27.492s9.621,27.478,28.01,27.478c15.526,0,24.315-10.088,26.138-20.085H408.64a12.331,12.331,0,0,1-4.5,6.525,14.33,14.33,0,0,1-8.644,2.661,16.17,16.17,0,0,1-6.477-1.3,14.783,14.783,0,0,1-5-3.547,17.141,17.141,0,0,1-4.359-11.733,17.484,17.484,0,0,1,4.088-11.544,14.886,14.886,0,0,1,11.6-5.042,13.924,13.924,0,0,1,9.185,3.079,12.933,12.933,0,0,1,4.256,7.671H421.41C419.885-1369.821,409.351-1378.525,395.195-1378.525Zm40.95,1.221-7.713,3.3,9.666,22.605-9.67,22.612,7.716,3.3,6.488-15.28.033.07,4.489-10.7-11.01-25.91Z" transform="translate(-337 1415)" fill="#fa2a00"/>
+    </g>
+  </g>
+</svg>
