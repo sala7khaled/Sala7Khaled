@@ -1,16 +1,16 @@
-<svg id="linktree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="134" viewBox="0 0 134 134">
+<svg id="linktree" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectangle_2" data-name="Rectangle 2" width="74" height="74" transform="translate(-0.15 -0.15)" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="166" height="166" transform="translate(-0.164 -0.164)" fill="#fff"/>
     </clipPath>
   </defs>
-  <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" fill="#161b22"/>
-  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(30.15 30.15)" clip-path="url(#clip-path)">
-    <g id="layer1" transform="translate(6.682 0)">
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="300" height="300" rx="76" transform="translate(0)" fill="#161b22"/>
+  <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(67.164 67.164)" clip-path="url(#clip-path)">
+    <g id="layer1" transform="translate(15.295 0.336)">
       <g id="g46" transform="translate(0 0)">
-        <g id="g18" transform="translate(0 0)">
-          <path id="path993" d="M22.572,14.132H33.3V38.24H22.572V14.132" transform="translate(2.344 35.46)" fill="#43e660" fill-rule="evenodd"/>
-          <path id="path991" d="M15.247,24.24H33.475L20.5,11.956l7.151-7.287L40,17.3V-.672H50.723V17.293L63.065,4.664l7.151,7.287L57.239,24.235H75.471v10.16H57.125L70.162,47.023l-7.151,7.12L45.3,36.405,27.59,54.143l-7.151-7.12L33.475,34.395H15.134V24.24h.113" transform="translate(-15.134 0.672)" fill="#43e660" fill-rule="evenodd"/>
+        <g id="g18">
+          <path id="path993" d="M22.572,14.132H46.587V68.106H22.572V14.132" transform="translate(33.211 96.894)" fill="#43e660" fill-rule="evenodd"/>
+          <path id="path991" d="M15.388,55.1H56.2L27.142,27.6l16.01-16.315L70.794,39.557V-.672H94.81V39.547l27.632-28.272,16.01,16.315L109.4,55.09h40.818V77.836H109.144l29.186,28.272-16.01,15.939L82.67,82.336,43.02,122.047,27.01,106.108,56.2,77.836H15.134V55.1h.254" transform="translate(-15.134 0.672)" fill="#43e660" fill-rule="evenodd"/>
         </g>
       </g>
     </g>

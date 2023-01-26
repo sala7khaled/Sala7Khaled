@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="134" viewBox="0 0 134 134">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="300" height="300" viewBox="0 0 300 300">
   <defs>
     <clipPath id="clip-path">
-      <rect id="Rectangle_2" data-name="Rectangle 2" width="74" height="74" transform="translate(-0.15 -0.15)" fill="#fff"/>
+      <rect id="Rectangle_2" data-name="Rectangle 2" width="166" height="166" transform="translate(-0.164 -0.164)" fill="#fff"/>
     </clipPath>
   </defs>
   <g id="linkedin" transform="translate(-704 -252)">
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" transform="translate(704 252)" fill="#161b22"/>
-    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(734.15 282.15)" clip-path="url(#clip-path)">
-      <g id="da6195985f5ffa1c15b90147f61b9269" transform="translate(3.35 3.35)">
-        <path id="Path_1" data-name="Path 1" d="M0,6.875H14.983V52.922H0Zm55.794.54c-.159-.05-.31-.1-.477-.151q-.3-.068-.607-.117a13.433,13.433,0,0,0-2.688-.272c-8.735,0-14.275,6.35-16.1,8.8v-8.8H20.938V52.922H35.92V27.806s11.323-15.765,16.1-4.186v29.3H67V21.849A14.937,14.937,0,0,0,55.794,7.415Z" transform="translate(0 14.078)" fill="#1976d2"/>
-        <circle id="Ellipse_1" data-name="Ellipse 1" cx="7.333" cy="7.333" r="7.333" fill="#1976d2"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="300" height="300" rx="76" transform="translate(704 252)" fill="#161b22"/>
+    <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(771.164 319.164)" clip-path="url(#clip-path)">
+      <g id="da6195985f5ffa1c15b90147f61b9269" transform="translate(7.836 7.836)">
+        <path id="Path_1" data-name="Path 1" d="M0,6.875H33.544V109.966H0ZM124.912,8.084c-.356-.112-.694-.234-1.069-.337q-.675-.153-1.359-.262a30.075,30.075,0,0,0-6.019-.609c-19.556,0-31.959,14.217-36.047,19.709V6.875H46.875V109.966H80.419V53.734s25.35-35.295,36.047-9.372v65.6H150V40.4A33.441,33.441,0,0,0,124.912,8.084Z" transform="translate(0 40.034)" fill="#1976d2"/>
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="16.418" cy="16.418" r="16.418" fill="#1976d2"/>
       </g>
     </g>
   </g>
