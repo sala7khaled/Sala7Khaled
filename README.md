@@ -60,8 +60,8 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <div align="center">
   <br>
   <p>
-    If you have any queries or just wanna say hi, <br><b>MAIL ME</b>&nbsp;
+    If you have any queries or just wanna say hi, <br/>&nbsp;
   <a href="mailto:sala7khaled7@gmail.com">
-      <img width="26px" src="/assets/gmail.svg" />
+      <img width="34px" src="/assets/gmail.svg" />
   </a></p>
 </div>
