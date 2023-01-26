@@ -13,7 +13,7 @@ and look for waysto better myself in thisrapidly changing industry.
 💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
 <br/>
 
-<a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.svg" />
+<a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.png" />
   </a>
 <a href="https://www.linkedin.com/in/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="34px" src="/assets/linkedin.svg" />
   </a>
