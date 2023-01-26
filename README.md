@@ -15,11 +15,11 @@ and look for waysto better myself in thisrapidly changing industry.
 
 <a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.png" />
   </a>
-<a href="https://www.linkedin.com/in/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="34px" src="/assets/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="34px" src="/assets/linkedin.png" />
   </a>
-<a href="https://www.behance.net/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="34px" src="/assets/behance.svg" />
+<a href="https://www.behance.net/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="34px" src="/assets/behance.png" />
   </a>
-<a href="mailto:sala7khaled7@gmail.com"> <img align="left" alt="Salah Khaled | Gmail " width="34px" src="/assets/gmail.svg" />
+<a href="mailto:sala7khaled7@gmail.com"> <img align="left" alt="Salah Khaled | Gmail " width="34px" src="/assets/gmail.png" />
   </a>
   
 <br/>
@@ -47,8 +47,8 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 
 ### Tools 
 <code><img height="34" src="/assets/xcode.png"></code>
-<code><img height="34" src="/assets/android-studio.svg"></code>
-<code><img height="34" src="/assets/postman.svg"></code>
-<code><img height="34" src="/assets/git.svg"></code>
-<code><img height="34" src="/assets/firebase.svg"></code>
-<code><img height="34" src="/assets/xd.svg"></code>
+<code><img height="34" src="/assets/android-studio.png"></code>
+<code><img height="34" src="/assets/postman.png"></code>
+<code><img height="34" src="/assets/git.png"></code>
+<code><img height="34" src="/assets/firebase.png"></code>
+<code><img height="34" src="/assets/xd.png"></code>
