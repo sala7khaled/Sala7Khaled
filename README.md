@@ -48,7 +48,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 ### Tools 
 <code><img height="34" src="/assets/xcode.png"></code>
 <code><img height="34" src="/assets/android-studio.svg"></code>
-<code><img height="34" src="/assets/postman.png"></code>
+<code><img height="34" src="/assets/postman.svg"></code>
 <code><img height="34" src="/assets/git.svg"></code>
 <code><img height="34" src="/assets/firebase.svg"></code>
 <code><img height="34" src="/assets/xd.svg"></code>
