@@ -4,7 +4,7 @@
       <rect id="Rectangle_2" data-name="Rectangle 2" width="74" height="74" transform="translate(-0.15 -0.15)" fill="#fff"/>
     </clipPath>
   </defs>
-  <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" fill="#161b22"/>
+  <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" fill="#536172" opacity="0.1"/>
   <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(30.15 30.15)" clip-path="url(#clip-path)">
     <g id="layer1" transform="translate(6.682 0)">
       <g id="g46" transform="translate(0 0)">

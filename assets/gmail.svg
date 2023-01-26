@@ -5,7 +5,7 @@
     </clipPath>
   </defs>
   <g id="gmail" transform="translate(-704 -252)">
-    <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" transform="translate(704 252)" fill="#161b22"/>
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="134" height="134" rx="34" transform="translate(704 252)" fill="#536172" opacity="0.1"/>
     <g id="Mask_Group_4" data-name="Mask Group 4" transform="translate(734.15 282.15)" clip-path="url(#clip-path)">
       <g id="gmail-2" data-name="gmail" transform="translate(0 9.224)">
         <path id="Path_2" data-name="Path 2" d="M5.014,45.254h11.72V16.8L0,4.254V40.288a5,5,0,0,0,5.014,4.966Z" transform="translate(0 9.999)" fill="#4285f4"/>
