@@ -1,5 +1,3 @@
-<img src="/assets/banner.svg">
-
 ### About me
 ```swift
 import Foundation
@@ -49,7 +47,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <br/>
 <br/>
 
-### GitHub stats
+### My stats
 <a href="https://github.com/sala7khaled/sala7khaled">
   <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=sala7khaled&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" alt="Salah's GitHub Stats" />
 </a>
@@ -72,3 +70,11 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <code><img height="34" src="/assets/realm.svg"></code>
 <code><img height="34" src="/assets/android-studio.svg"></code>
 <code><img height="34" src="/assets/xd.svg"></code>
+
+<br/>
+<br/>
+<br/>
+
+### Now listening on Spotify
+
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22)
