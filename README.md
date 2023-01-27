@@ -61,15 +61,15 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <br/>
 
 ### Tools 
-<code><img height="34" src="/assets/xcode.png"></code>
-<code><img height="34" src="/assets/swift.svg"></code>
-<code><img height="34" src="/assets/git.svg"></code>
-<code><img height="34" src="/assets/cocoapods.svg"></code>
-<code><img height="34" src="/assets/firebase.svg"></code>
-<code><img height="34" src="/assets/postman.svg"></code>
-<code><img height="34" src="/assets/realm.svg"></code>
-<code><img height="34" src="/assets/android-studio.svg"></code>
-<code><img height="34" src="/assets/xd.svg"></code>
+<code><img height="34" src="/assets/xcode.png"></code> &nbsp;
+<code><img height="34" src="/assets/swift.svg"></code> &nbsp;
+<code><img height="34" src="/assets/git.svg"></code> &nbsp;
+<code><img height="34" src="/assets/cocoapods.svg"></code> &nbsp;
+<code><img height="34" src="/assets/firebase.svg"></code> &nbsp;
+<code><img height="34" src="/assets/postman.svg"></code> &nbsp;
+<code><img height="34" src="/assets/realm.svg"></code> &nbsp;
+<code><img height="34" src="/assets/android-studio.svg"></code> &nbsp;
+<code><img height="34" src="/assets/xd.svg"></code> &nbsp;
 
 <br/>
 <br/>
