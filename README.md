@@ -1,6 +1,6 @@
+<img src="/assets/banner.png">
+
 ### About me
-
-
 ```swift
 import Foundation
 
