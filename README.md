@@ -28,8 +28,6 @@ Results-oriented software developer in the field of iOS Development. I make it m
 💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
 <br/>
 
-[link](https://www.tarseya.com){:target="_blank"}
-
 <a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.svg" />
   </a>
 <a href="https://www.linkedin.com/in/sala7khaled"> <img align="left" alt="Salah Khaled | LinkedIn" width="34px" src="/assets/linkedin.svg" />
