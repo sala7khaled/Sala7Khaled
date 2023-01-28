@@ -28,7 +28,7 @@ Results-oriented software developer in the field of iOS Development. I make it m
 💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
 <br/>
 
-<a href="http://stackoverflow.com" target="_blank">Go</a>
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 <a href="https://linktr.ee/sala7khaled"> <img align="left" alt="Salah Khaled | Linktree" width="34px" src="/assets/linktree.svg" />
   </a>
