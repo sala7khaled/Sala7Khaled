@@ -50,7 +50,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 ### My stats
 <a href="https://github.com/sala7khaled/sala7khaled">
   <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=sala7khaled&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" alt="Salah's GitHub Stats" />
-</a>
+</a> &nbsp;
 
 <a href="https://github.com/sala7khaled/sala7khaled">
   <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
