@@ -3,7 +3,7 @@
 import Foundation
 
 class Human {
-    let personalInfo: [String: Any] = ["name": "Salah Khaled",
+    var personalInfo: [String: Any] = ["name": "Salah Khaled",
                                       "title": "iOS Developer",
                                       "website": URL(string: "https://linktr.ee/sala7khaled/")]
                                       
