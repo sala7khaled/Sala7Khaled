@@ -2,7 +2,7 @@
 ```swift
 import Foundation
 
-class Human {
+class ReadMe {
     var personalInfo: [String: Any] = ["name": "Salah Khaled",
                                       "title": "iOS Developer",
                                       "website": URL(string: "https://linktr.ee/sala7khaled/")]
