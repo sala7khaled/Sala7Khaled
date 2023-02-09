@@ -75,6 +75,6 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <br/>
 <br/>
 
-### Now listening on Spotify
+### 🎧 Now listening
 
 ![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22)
