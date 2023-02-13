@@ -53,7 +53,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 </a> &nbsp;
 
 <a href="https://github.com/sala7khaled/sala7khaled">
-  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=java,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
+  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=ejs,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
 </a>
 
 <br/>
