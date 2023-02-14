@@ -13,13 +13,6 @@ class ReadMe {
     to better myself in thisrapidly changing industry."
 }
 ```
-<!-- <table>
-<tr>
-<td>
-Results-oriented software developer in the field of iOS Development. I make it my goal to create software with a useable and intuitive user interface experience. I also, create highly readable and easily maintainable source code. I am constantly striving to learn new technologies and look for waysto better myself in thisrapidly changing industry.
-</td>
-</tr>
-</table> -->
 
 🔭 I’m currently working at [Tasheel Information Technology](https://www.tasheelinfotech.com/wp-tasheelinfotech/home-ar/)
 <br/>
@@ -53,7 +46,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 </a> &nbsp;
 
 <a href="https://github.com/sala7khaled/sala7khaled">
-  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=ejs,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117" />
+  <img height ="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sala7khaled&hide=ejs,html&title_color=ffffff&text_color=c9cacc&border_color=21262d&icon_color=2bbc8a&bg_color=0D1117&langs_count=3" />
 </a>
 
 <br/>
@@ -70,7 +63,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <code><img height="34" src="/assets/realm.svg"></code> &nbsp;
 <code><img height="34" src="/assets/android-studio.svg"></code> &nbsp;
 <code><img height="34" src="/assets/xd.svg"></code> &nbsp;
-
+    
 <!-- <br/>
 <br/>
 <br/>
