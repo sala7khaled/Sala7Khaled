@@ -14,7 +14,7 @@ class ReadMe {
 }
 ```
 
-🔭 I’m currently working at [Tasheel Information Technology](https://www.tasheelinfotech.com/wp-tasheelinfotech/home-ar/)
+🔭 I’m currently working at [Tasheel Information Technology](https://github.com/tasheelinfotech)
 <br/>
 🌱 I’m currently learning [Flutter](https://flutter.dev)
 <br/>
