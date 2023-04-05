@@ -16,7 +16,7 @@ class ReadMe {
 
 🔭 I’m currently working at [Tasheel Information Technology](https://github.com/tasheelinfotech)
 <br/>
-🌱 I’m currently
+🌱 I’m currently learning [SwiftUI](https://developer.apple.com/tutorials/swiftui)
 <br/>
 💬 Ask me about anything [Here](https://github.com/sala7khaled/sala7khaled/issues)
 <br/>
