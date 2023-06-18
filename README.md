@@ -69,7 +69,6 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 
 [![](https://visitcount.itsvg.in/api?id=sala7khaled&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![github contribution grid snake animation](assets/contribution.svg)
 <!-- <br/>
 <br/>
 <br/>
