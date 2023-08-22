@@ -69,6 +69,9 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 
 [![](https://visitcount.itsvg.in/api?id=sala7khaled&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+![Metrics](https://metrics.lecoq.io/sala7khaled?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Africa%2FCairo)
+
 <!-- <br/>
 <br/>
 <br/>
