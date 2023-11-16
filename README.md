@@ -69,10 +69,10 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 
 [![](https://visitcount.itsvg.in/api?id=sala7khaled&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- <br/>
+<br/>
 <br/>
 <br/>
 
 ### 🎧 Now listening
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22) -->
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22)
