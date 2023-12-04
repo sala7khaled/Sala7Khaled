@@ -67,7 +67,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <br/>
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=sala7khaled&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sala7khaled&label=Profile%20Views&color=1&icon=3&pretty=true)]()
 
 <!--- <br/>
 <br/>
