@@ -54,6 +54,10 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <br/>
 
 ### Tools 
+<!--- <br/>
+[![My Skills](https://skillicons.dev/icons?i=xcode,swift,git,cocoapods,firebase,postman,realm,xd,discord&perline=10)]()
+-->
+
 <code><img height="34" src="/assets/xcode.png"></code> &nbsp;
 <code><img height="34" src="/assets/swift.svg"></code> &nbsp;
 <code><img height="34" src="/assets/git.svg"></code> &nbsp;
@@ -63,6 +67,7 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 <code><img height="34" src="/assets/realm.svg"></code> &nbsp;
 <code><img height="34" src="/assets/android-studio.svg"></code> &nbsp;
 <code><img height="34" src="/assets/xd.svg"></code> &nbsp;
+
 
 <br/>
 <br/>
@@ -75,4 +80,5 @@ You can support me and [buy me a coffee](https://www.paypal.com/paypalme/sala7kh
 
 ### 🎧 Now listening
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22) -->
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=314g5x2eb4k3zcx2fuguw2aa3w6y&cover_image=true&theme=default&show_offline=false&background_color=161B22) 
+-->
