@@ -3,14 +3,16 @@
 import Foundation
 
 class ReadMe {
-    var personalInfo: [String: Any] = ["name": "Salah Khaled",
-                                      "title": "iOS Developer",
-                                      "website": URL(string: "https://linktr.ee/sala7khaled/")]
-                                      
-    var bio: String? = "Results-oriented software developer in the field of iOS Development. I make it my goal
-    to create software with a useable and intuitive user interface experience. I also, create highly readable
-    and easily maintainable source code. I am constantly striving to learn new technologies and look for ways
-    to better myself in thisrapidly changing industry."
+    static let personalInfo: [String: Any] = ["name": "Salah Khaled",
+                                              "title": "iOS Developer",
+                                              "website": URL(string: "https://linktr.ee/sala7khaled/")!]
+    
+    static let bio: String? = """
+            Results-oriented software developer in the field of iOS Development. I make it my goal
+            to create software with a useable and intuitive user interface experience. I also, create highly
+            readable and easily maintainable source code. I am constantly striving to learn new technologies
+            and look for ways to better myself in thisrapidly changing industry.
+            """
 }
 ```
 
